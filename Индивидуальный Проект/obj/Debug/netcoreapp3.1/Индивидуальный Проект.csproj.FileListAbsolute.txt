@@ -1,0 +1,17 @@
+D:\ПКГХ\УП\Индивидуальный Проект\bin\Debug\netcoreapp3.1\Индивидуальный Проект.exe
+D:\ПКГХ\УП\Индивидуальный Проект\bin\Debug\netcoreapp3.1\Индивидуальный Проект.deps.json
+D:\ПКГХ\УП\Индивидуальный Проект\bin\Debug\netcoreapp3.1\Индивидуальный Проект.runtimeconfig.json
+D:\ПКГХ\УП\Индивидуальный Проект\bin\Debug\netcoreapp3.1\Индивидуальный Проект.runtimeconfig.dev.json
+D:\ПКГХ\УП\Индивидуальный Проект\bin\Debug\netcoreapp3.1\Индивидуальный Проект.dll
+D:\ПКГХ\УП\Индивидуальный Проект\bin\Debug\netcoreapp3.1\Индивидуальный Проект.pdb
+D:\ПКГХ\УП\Индивидуальный Проект\obj\Debug\netcoreapp3.1\Индивидуальный Проект.csproj.AssemblyReference.cache
+D:\ПКГХ\УП\Индивидуальный Проект\obj\Debug\netcoreapp3.1\Индивидуальный_Проект.Form1.resources
+D:\ПКГХ\УП\Индивидуальный Проект\obj\Debug\netcoreapp3.1\Индивидуальный Проект.csproj.GenerateResource.cache
+D:\ПКГХ\УП\Индивидуальный Проект\obj\Debug\netcoreapp3.1\Индивидуальный Проект.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПКГХ\УП\Индивидуальный Проект\obj\Debug\netcoreapp3.1\Индивидуальный Проект.AssemblyInfoInputs.cache
+D:\ПКГХ\УП\Индивидуальный Проект\obj\Debug\netcoreapp3.1\Индивидуальный Проект.AssemblyInfo.cs
+D:\ПКГХ\УП\Индивидуальный Проект\obj\Debug\netcoreapp3.1\Индивидуальный Проект.csproj.CoreCompileInputs.cache
+D:\ПКГХ\УП\Индивидуальный Проект\obj\Debug\netcoreapp3.1\Индивидуальный Проект.dll
+D:\ПКГХ\УП\Индивидуальный Проект\obj\Debug\netcoreapp3.1\Индивидуальный Проект.pdb
+D:\ПКГХ\УП\Индивидуальный Проект\obj\Debug\netcoreapp3.1\Индивидуальный Проект.genruntimeconfig.cache
+D:\ПКГХ\УП\Индивидуальный Проект\obj\Debug\netcoreapp3.1\Индивидуальный_Проект.Properties.Resources.resources
